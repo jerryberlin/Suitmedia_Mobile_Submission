@@ -13,9 +13,9 @@ The source code of this Android application uses Kotlin.
  - [CircleImageView](https://github.com/hdodenhof/CircleImageView)
  - [SwipeRefresherLayout](https://developer.android.com/jetpack/androidx/releases/swiperefreshlayout)
 
-## Installation
+### Installation
 If you want to know more about the project, you can clone this repository or directly download the .zip files, then open the file in Android Studio (preferably). 
-#### Prerequisites (as this project was made with these tools):
+##### Prerequisites (as this project was made with these tools):
 
 - Android Studio Dolphin 2021.3.1
 - Kotlin 1.8.0

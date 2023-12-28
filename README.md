@@ -15,15 +15,14 @@ The source code of this Android application uses Kotlin.
 
 ### Installation
 If you want to know more about the project, you can clone this repository or directly download the .zip files, then open the file in Android Studio (preferably). 
-##### Prerequisites (as this project was made with these tools):
-
+#### Prerequisites (as this project was made with these tools):
 - Android Studio Dolphin 2021.3.1
 - Kotlin 1.8.0
 - Gradle 7.3.1
 - JDK 11
 
 ### Download the application using the link below:
-[APK](https://drive.google.com/file/d/1LWPmHLHzMOSwyFyfeJlo5CZC2xdvKF_M/view?usp=sharing)
+[APK](https://drive.google.com/file/d/1CyMsSD36jZOvUaOxIfl3EAQZQBDDCvxJ/view?usp=sharing)
 
 ### Screenshots
 ![UI Suitmedia](https://github.com/jerryberlin/Suitmedia_Mobile_Submission/assets/72635719/b9a290c9-53d9-4a40-a621-949de4057a17)
